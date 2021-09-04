@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Windows.old\\Users\\wwwcr\\AppData\\Local\\Microsoft\\Windows\\History\\Low"
+		},
+		{
+			"name": "1st _ATTEMPT_app_WIN",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.autoGuessEncoding": true,
+		"editor.formatOnType": true,
+		"editor.find.autoFindInSelection": "always",
+		"editor.cursorSmoothCaretAnimation": true,
+		"files.autoSave": "onWindowChange",
+		"workbench.colorCustomizations": {
+		
+		}
+	}
+}
